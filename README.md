@@ -20,6 +20,7 @@ npm i
 
 ```bash
 npm run dev
+```
 
 ## Author 
 ```
